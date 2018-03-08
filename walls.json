@@ -1,17 +1,3 @@
-{
-    "Collections":[
-        {
-            "name":"Apple",
-            "preview_url":"https://raw.githubusercontent.com/wearemetodix/Walls/master/Apple.png",
-            "preview_thumbnail_url":"https://raw.githubusercontent.com/wearemetodix/Walls/master/Apple.png"
-        },
-        {
-            "name":"Samsung",
-            "preview_url":"https://raw.githubusercontent.com/wearemetodix/Walls/master/Samsung.png",
-            "preview_thumbnail_url":"https://raw.githubusercontent.com/wearemetodix/Walls/master/Samsung.png"
-        }
-    ],
-    
 "Wallpapers":[
         {
             "name":"1",
@@ -266,12 +252,6 @@
             "downloadable":"false"
         },
         {
-            "name":"43",
-            "author":"G+",
-            "url":"",
-            "downloadable":"false"
-        },
-        {
             "name":"44",
             "author":"G+",
             "url":"https://raw.githubusercontent.com/ajemvuma/Bic/master/48.png",
@@ -314,12 +294,6 @@
             "downloadable":"false"
         },
         {
-            "name":"51",
-            "author":"G+",
-            "url":"",
-            "downloadable":"false"
-        },
-        {
             "name":"52",
             "author":"G+",
             "url":"https://raw.githubusercontent.com/ajemvuma/Bic/master/55.png",
@@ -356,12 +330,6 @@
             "downloadable":"false"
         },
         {
-            "name":"58",
-            "author":"G+",
-            "url":"",
-            "downloadable":"false"
-        },
-        {
             "name":"59",
             "author":"G+",
             "url":"https://raw.githubusercontent.com/ajemvuma/Bic/master/61.png",
@@ -394,222 +362,6 @@
             "name":"64",
             "author":"G+",
             "url":"https://raw.githubusercontent.com/ajemvuma/Bic/master/9.png",
-            "downloadable":"false"
-        },
-        {
-            "name":"65",
-            "author":"G+",
-            "url":"",
-            "downloadable":"false"
-        },
-        {
-            "name":"66",
-            "author":"G+",
-            "url":"",
-            "downloadable":"false"
-        },
-        {
-            "name":"67",
-            "author":"G+",
-            "url":"",
-            "downloadable":"false"
-        },
-        {
-            "name":"68",
-            "author":"G+",
-            "url":"",
-            "downloadable":"false"
-        },
-        {
-            "name":"69",
-            "author":"G+",
-            "url":"",
-            "downloadable":"false"
-        },
-        {
-            "name":"70",
-            "author":"G+",
-            "url":"",
-            "downloadable":"false"
-        },
-        {
-            "name":"71",
-            "author":"G+",
-            "url":"",
-            "downloadable":"false"
-        },
-        {
-            "name":"72",
-            "author":"G+",
-            "url":"",
-            "downloadable":"false"
-        },
-        {
-            "name":"73",
-            "author":"G+",
-            "url":"",
-            "downloadable":"false"
-        },
-        {
-            "name":"74",
-            "author":"G+",
-            "url":"",
-            "downloadable":"false"
-        },
-        {
-            "name":"75",
-            "author":"G+",
-            "url":"",
-            "downloadable":"false"
-        },
-        {
-            "name":"76",
-            "author":"G+",
-            "url":"",
-            "downloadable":"false"
-        },
-        {
-            "name":"77",
-            "author":"G+",
-            "url":"",
-            "downloadable":"false"
-        },
-        {
-            "name":"78",
-            "author":"G+",
-            "url":"",
-            "downloadable":"false"
-        },
-        {
-            "name":"79",
-            "author":"G+",
-            "url":"",
-            "downloadable":"false"
-        },
-        {
-            "name":"80",
-            "author":"G+",
-            "url":"",
-            "downloadable":"false"
-        },
-        {
-            "name":"81",
-            "author":"G+",
-            "url":"",
-            "downloadable":"false"
-        },
-        {
-            "name":"82",
-            "author":"G+",
-            "url":"",
-            "downloadable":"false"
-        },
-        {
-            "name":"83",
-            "author":"G+",
-            "url":"",
-            "downloadable":"false"
-        },
-        {
-            "name":"84",
-            "author":"G+",
-            "url":"",
-            "downloadable":"false"
-        },
-        {
-            "name":"85",
-            "author":"G+",
-            "url":"",
-            "downloadable":"false"
-        },
-        {
-            "name":"86",
-            "author":"G+",
-            "url":"",
-            "downloadable":"false"
-        },
-        {
-            "name":"87",
-            "author":"G+",
-            "url":"",
-            "downloadable":"false"
-        },
-        {
-            "name":"88",
-            "author":"G+",
-            "url":"",
-            "downloadable":"false"
-        },
-        {
-            "name":"89",
-            "author":"G+",
-            "url":"",
-            "downloadable":"false"
-        },
-        {
-            "name":"90",
-            "author":"G+",
-            "url":"",
-            "downloadable":"false"
-        },
-          {
-            "name":"91",
-            "author":"G+",
-            "url":"",
-            "downloadable":"false"
-        },
-        {
-            "name":"92",
-            "author":"G+",
-            "url":"",
-            "downloadable":"false"
-        },
-        {
-            "name":"93",
-            "author":"G+",
-            "url":"",
-            "downloadable":"false"
-        },
-        {
-            "name":"94",
-            "author":"G+",
-            "url":"",
-            "downloadable":"false"
-        },
-        {
-            "name":"95",
-            "author":"G+",
-            "url":"",
-            "downloadable":"false"
-        },
-        {
-            "name":"96",
-            "author":"G+",
-            "url":"",
-            "downloadable":"false"
-        },
-        {
-            "name":"97",
-            "author":"G+",
-            "url":"",
-            "downloadable":"false"
-        },
-        {
-            "name":"98",
-            "author":"G+",
-            "url":"",
-            "downloadable":"false"
-        },
-        {
-            "name":"99",
-            "author":"G+",
-            "url":"",
-            "downloadable":"false"
-        },
-        {
-            "name":"100",
-            "author":"G+",
-            "url":"",
             "downloadable":"false"
         }
     ]
